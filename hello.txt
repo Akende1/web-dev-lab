@@ -1,6 +1,10 @@
 Akende M Sikelete
 2021464113
 
+<<<<<<< HEAD
+Collaborator: Adrian Phiri, 20213979673
+=======
 Collaborator:
 Adrian Phiri
 2021397963
+>>>>>>> 45100b5a787c9af394094bdaa01ca604ddcb7c29
